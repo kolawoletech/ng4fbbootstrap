@@ -99,7 +99,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<app-navbar></app-navbar> \n<div class=\"container\">\n    <div class=\"starter-template\">\n        <h1>Angular, Bootstrap & Firebase Starter Application</h1>\n        <p class=\"lead\">This application is built with Angular 4, Bootstrap 4 and Firebase.</p>\n        <h3>Courses List</h3>\n        <courses-list></courses-list>\n    </div>\n</div>\n \n\n"
+module.exports = "<app-navbar></app-navbar> \n<div class=\"container\">\n    <div class=\"starter-template\">\n        <h1>Future Home of Ferry Me</h1>\n        <p class=\"lead\">This application is built with Angular 4, Bootstrap 4 and Firebase.</p>\n        <h3>Loading ...</h3>\n        <courses-list></courses-list>\n    </div>\n</div>\n \n\n"
 
 /***/ }),
 
