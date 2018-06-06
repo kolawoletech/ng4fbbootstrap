@@ -29,7 +29,10 @@ body {
     z-index: 10;
     background-color: #009688;
   }
-
+  .second-slide{
+    width: 1920px;
+    height: 1280px;
+  }
   .carousel-inner {
   
     background-color: #009688 !important;
