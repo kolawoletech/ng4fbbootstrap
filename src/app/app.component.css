@@ -38,6 +38,10 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
+div.mce_inline_error {
+  color: red;
+}
+
 .bg-primary {
   background-color: #17B0BA !important;
 }
