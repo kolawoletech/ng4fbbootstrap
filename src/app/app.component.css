@@ -321,3 +321,15 @@ header.masthead p {
   box-shadow: 0 0 0 0.2rem #f79127 !important;
 }
 
+section#contact {
+  background-image: url(../assets/img/xxx.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.notify {
+
+  background-image: url(../assets/img/xxx.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
